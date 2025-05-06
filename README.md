@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Java Swing Quiz Application
 
 A feature-rich quiz application built with Java Swing, implementing the MVC design pattern. This desktop application allows users to test their knowledge across various categories, while providing powerful administrative tools for content management, analytics, and user management.
@@ -130,3 +131,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - JFreeChart for data visualization
 - Apache Commons CSV for CSV processing
 - Jackson for JSON processing
+=======
+# Quiz-App
+>>>>>>> origin/main
